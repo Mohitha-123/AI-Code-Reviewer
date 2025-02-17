@@ -14,7 +14,8 @@ An interactive **AI-powered Python Code Reviewer** built with **Streamlit** and 
 - **Python (Regex, TensorFlow, etc.)**  
 
 ## 🎥 Demo  
-Check out the AI Code Reviewer in action! (Add link to demo video)  
+Check out the AI Code Reviewer in action! 
+https://huggingface.co/spaces/Mohitha/AI_Code_Reviewer
 
 ## 🚀 How to Use  
 1. **Clone this repository**  
