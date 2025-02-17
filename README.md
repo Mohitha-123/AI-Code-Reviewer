@@ -20,5 +20,5 @@ https://huggingface.co/spaces/Mohitha/AI_Code_Reviewer
 ## 🚀 How to Use  
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/yourusername/ai-code-reviewer.git
-   cd ai-code-reviewer
+   git clone https://github.com/Mohitha-123/AI-Code-Reviewer
+   
